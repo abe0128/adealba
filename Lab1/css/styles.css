@@ -1,0 +1,83 @@
+body {
+    background-color: gray;
+    color: orange;
+}
+
+header, main, nav, footer 
+{
+    text-align: center;
+}
+
+nav a 
+{
+    padding:15px;
+    padding-bottom: 4px;
+    font-size: 1.8em;
+    text-decoration: none;
+    color: white;
+}
+
+nav a:hover 
+{
+    border-bottom: 2px orange solid;
+    font-size: 2em;
+    transition: .9s;
+}
+
+table 
+{
+    margin: 200px auto;
+    font-size: 40px;
+}
+
+td
+{
+    padding-right: 10px;
+    font-size: 1.3em;
+}
+
+td strong
+{
+    color: orange;
+}
+
+ul
+{
+    text-align: left;
+    padding-left: 200px;
+    font-size: 40px;
+}
+
+#table-header
+{
+    background-color: #351a00;
+}
+
+#welcomeText
+{
+    font-size: 1.8em;
+}
+
+#contact
+{
+    
+}
+
+.hobby
+{
+    color: yellow;
+}
+
+.rotateimg 
+{
+  -webkit-transform:rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+
+.table-row
+{
+    background-color: #753900;
+}
