@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+header{
+    color:yellow;
+    text-align: center;
+}
+
+main
+{
+    text-align: center;
+}
+
+nav a:hover 
+{
+    font-size: 4em;
+    transition: 0.2s;
+    
+}
