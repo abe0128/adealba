@@ -1,0 +1,75 @@
+body
+{
+    background-color: gray;
+    color: black;
+}
+
+main, header, footer, nav
+{
+    text-align: center;
+}
+nav a
+{
+    
+    padding: 15px;
+    padding-bottom: 4px;
+    font-size: 1.8em;
+    text-decoration: none;
+    color: purple;
+}
+
+nav a:hover 
+{
+    border-bottom: 2px purple solid;
+    font-size: 2em;
+    transition: .9s;
+}
+
+#logo
+{
+    text-align: center;
+}
+
+#gamedeveloper
+{
+    text-align: center;
+}
+
+footer
+{
+    text-align: center;
+}
+
+#IntroText
+{
+    text-align: left;
+}
+
+#contentOne
+{
+    padding-bottom: 40px;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+.hobby
+{
+    color: purple;
+}
+
+.titleinfo
+{
+    color: black;
+}
+
+td
+{
+    background-color: orange;
+    padding-right: 20px;
+    font-size: 2.5em;
+}
+
+p
+{
+    font-size:1.6em;
+}
