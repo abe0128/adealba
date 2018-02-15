@@ -25,45 +25,13 @@ nav a:hover
     transition: .9s;
 }
 
-#logo
-{
-    text-align: center;
-}
-
-#gamedeveloper
-{
-    text-align: center;
-}
-
-footer
+#footer
 {
     text-align: center;
     position:absolute;
     bottom:0;
     width:100%;
     height:60px;
-}
-
-#IntroText
-{
-    text-align: left;
-}
-
-#contentOne
-{
-    padding-bottom: 40px;
-    padding-right: 40px;
-    padding-left: 40px;
-}
-
-.hobby
-{
-    color: purple;
-}
-
-.titleinfo
-{
-    color: black;
 }
 
 td
@@ -86,4 +54,45 @@ iframe
     left: 50%;
     top: 50%;
     transform: translate(-50%,-50%);
+}
+
+#logo
+{
+    text-align: center;
+}
+
+#gamedeveloper
+{
+    text-align: center;
+}
+
+#IntroText
+{
+    text-align: left;
+}
+
+#contentOne
+{
+    padding-bottom: 40px;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+#contactlogo
+{
+    text-align: center;
+    position:absolute;
+    bottom:0;
+    width:100%;
+    height:60px;
+}
+
+.hobby
+{
+    color: purple;
+}
+
+.titleinfo
+{
+    color: black;
 }
