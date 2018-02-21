@@ -4,7 +4,7 @@ function play()
     {
         for($i = 1; $i < 4; $i++)
         {
-            ${"randomValue" . $i} = rand(0,2);
+            ${"randomValue" . $i} = rand(0,3);
             displaySymbol(${"randomValue" . $i}, $i);
         }
         displayPoints($randomValue1, $randomValue2, $randomValue3);
@@ -22,6 +22,7 @@ function displaySymbol($randomValue, $pos)
                     break;
             case 2: $symbol = "lemon";
                     break;
+            case 3: $symbol = "bar";
         }
         
         echo "<img id='reel$pos' src='img/$symbol.png' alt='$symbol' tittle= '$symbol' width='70'/>";
@@ -42,6 +43,8 @@ function displayPoints($randomValue1, $randomValue2, $randomValue3)
                 case 1: $totalPoints = 500;
                         break;
                 case 2: $totalPoints = 250;
+                        break;
+                case 3: $totalPoints = 750;
                         break;
             }
             echo "<h2>You won $totalPoints points!</h2>";

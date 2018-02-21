@@ -12,3 +12,11 @@
 [07-Feb-2018 23:45:18 UTC] PHP   2. displaySymbol() /home/ubuntu/workspace/adealba/CLASSEXERCISES/ChallangeExcercise2/index.php:16
 [12-Feb-2018 22:59:53 UTC] PHP Parse error:  syntax error, unexpected ']', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/adealba/CLASSEXERCISES/classActivity3/php_arrays.php on line 21
 [12-Feb-2018 23:00:01 UTC] PHP Parse error:  syntax error, unexpected ']', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/adealba/CLASSEXERCISES/classActivity3/php_arrays.php on line 21
+[19-Feb-2018 23:45:32 UTC] PHP Warning:  Missing argument 1 for makePassword(), called in /home/ubuntu/workspace/adealba/CLASSEXERCISES/classActivity4/challange.php on line 34 and defined in /home/ubuntu/workspace/adealba/CLASSEXERCISES/classActivity4/challange.php on line 7
+[19-Feb-2018 23:45:32 UTC] PHP Stack trace:
+[19-Feb-2018 23:45:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/adealba/CLASSEXERCISES/classActivity4/challange.php:0
+[19-Feb-2018 23:45:32 UTC] PHP   2. makePassword() /home/ubuntu/workspace/adealba/CLASSEXERCISES/classActivity4/challange.php:34
+[19-Feb-2018 23:45:33 UTC] PHP Warning:  Missing argument 1 for makePassword(), called in /home/ubuntu/workspace/adealba/CLASSEXERCISES/classActivity4/challange.php on line 34 and defined in /home/ubuntu/workspace/adealba/CLASSEXERCISES/classActivity4/challange.php on line 7
+[19-Feb-2018 23:45:33 UTC] PHP Stack trace:
+[19-Feb-2018 23:45:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/adealba/CLASSEXERCISES/classActivity4/challange.php:0
+[19-Feb-2018 23:45:33 UTC] PHP   2. makePassword() /home/ubuntu/workspace/adealba/CLASSEXERCISES/classActivity4/challange.php:34

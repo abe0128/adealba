@@ -1,0 +1,307 @@
+[20-Feb-2018 20:46:11 UTC] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php on line 7
+[20-Feb-2018 20:46:11 UTC] PHP Stack trace:
+[20-Feb-2018 20:46:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/index.php:0
+[20-Feb-2018 20:50:29 UTC] PHP Parse error:  syntax error, unexpected 'src' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php on line 26
+[20-Feb-2018 20:50:30 UTC] PHP Stack trace:
+[20-Feb-2018 20:50:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/index.php:0
+[20-Feb-2018 20:50:31 UTC] PHP Parse error:  syntax error, unexpected 'src' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php on line 26
+[20-Feb-2018 20:50:31 UTC] PHP Stack trace:
+[20-Feb-2018 20:50:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/index.php:0
+[20-Feb-2018 20:51:11 UTC] PHP Parse error:  syntax error, unexpected 'src' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php on line 26
+[20-Feb-2018 20:51:11 UTC] PHP Stack trace:
+[20-Feb-2018 20:51:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/index.php:0
+[20-Feb-2018 20:51:12 UTC] PHP Parse error:  syntax error, unexpected 'src' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php on line 26
+[20-Feb-2018 20:51:12 UTC] PHP Stack trace:
+[20-Feb-2018 20:51:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/index.php:0
+[20-Feb-2018 20:51:12 UTC] PHP Parse error:  syntax error, unexpected 'src' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php on line 26
+[20-Feb-2018 20:51:12 UTC] PHP Stack trace:
+[20-Feb-2018 20:51:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/index.php:0
+[20-Feb-2018 20:57:56 UTC] PHP Parse error:  syntax error, unexpected 'src' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php on line 26
+[20-Feb-2018 20:57:56 UTC] PHP Stack trace:
+[20-Feb-2018 20:57:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/index.php:0
+[20-Feb-2018 21:20:20 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php on line 18
+[20-Feb-2018 21:20:20 UTC] PHP Stack trace:
+[20-Feb-2018 21:20:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/index.php:0
+[20-Feb-2018 21:23:42 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php on line 19
+[20-Feb-2018 21:23:42 UTC] PHP Stack trace:
+[20-Feb-2018 21:23:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/index.php:0
+[20-Feb-2018 21:23:43 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php on line 19
+[20-Feb-2018 21:23:43 UTC] PHP Stack trace:
+[20-Feb-2018 21:23:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/index.php:0
+[20-Feb-2018 21:30:15 UTC] PHP Parse error:  syntax error, unexpected 'VOYAGER' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php on line 19
+[20-Feb-2018 21:30:15 UTC] PHP Stack trace:
+[20-Feb-2018 21:30:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/index.php:0
+[20-Feb-2018 21:39:57 UTC] PHP Fatal error:  Call to undefined function displayInfor() in /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php on line 11
+[20-Feb-2018 21:39:57 UTC] PHP Stack trace:
+[20-Feb-2018 21:39:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/index.php:0
+[20-Feb-2018 21:39:57 UTC] PHP   2. play() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/index.php:20
+[20-Feb-2018 21:39:59 UTC] PHP Fatal error:  Call to undefined function displayInfor() in /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php on line 11
+[20-Feb-2018 21:39:59 UTC] PHP Stack trace:
+[20-Feb-2018 21:39:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/index.php:0
+[20-Feb-2018 21:39:59 UTC] PHP   2. play() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/index.php:20
+[20-Feb-2018 21:40:00 UTC] PHP Fatal error:  Call to undefined function displayInfor() in /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php on line 11
+[20-Feb-2018 21:40:00 UTC] PHP Stack trace:
+[20-Feb-2018 21:40:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/index.php:0
+[20-Feb-2018 21:40:00 UTC] PHP   2. play() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/index.php:20
+[21-Feb-2018 02:15:21 UTC] PHP Warning:  Missing argument 1 for displayBackground(), called in /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/index.php on line 21 and defined in /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php on line 41
+[21-Feb-2018 02:15:21 UTC] PHP Stack trace:
+[21-Feb-2018 02:15:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/index.php:0
+[21-Feb-2018 02:15:21 UTC] PHP   2. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/index.php:21
+[21-Feb-2018 02:15:21 UTC] PHP Fatal error:  Maximum function nesting level of '256' reached, aborting! in /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php on line 46
+[21-Feb-2018 02:15:21 UTC] PHP Stack trace:
+[21-Feb-2018 02:15:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/index.php:0
+[21-Feb-2018 02:15:21 UTC] PHP   2. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/index.php:21
+[21-Feb-2018 02:15:21 UTC] PHP   3. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP   4. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP   5. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP   6. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP   7. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP   8. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP   9. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  10. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  11. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  12. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  13. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  14. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  15. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  16. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  17. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  18. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  19. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  20. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  21. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  22. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  23. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  24. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  25. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  26. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  27. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  28. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  29. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  30. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  31. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  32. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  33. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  34. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  35. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  36. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  37. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  38. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  39. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  40. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  41. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  42. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  43. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  44. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  45. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  46. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  47. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  48. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  49. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  50. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  51. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  52. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  53. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  54. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  55. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  56. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  57. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  58. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  59. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  60. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  61. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  62. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  63. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  64. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  65. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  66. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  67. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  68. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  69. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  70. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  71. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  72. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  73. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  74. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  75. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  76. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  77. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  78. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  79. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  80. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  81. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  82. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  83. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  84. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  85. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  86. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  87. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  88. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  89. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  90. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  91. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  92. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  93. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  94. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  95. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  96. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  97. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  98. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP  99. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 100. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 101. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 102. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 103. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 104. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 105. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 106. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 107. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 108. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 109. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 110. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 111. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 112. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 113. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 114. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 115. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 116. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 117. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 118. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 119. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 120. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 121. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 122. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 123. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 124. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 125. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 126. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 127. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 128. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 129. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 130. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 131. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 132. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 133. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 134. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 135. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 136. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 137. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 138. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 139. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 140. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 141. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 142. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 143. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 144. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 145. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 146. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 147. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 148. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 149. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 150. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 151. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 152. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 153. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 154. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 155. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 156. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 157. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 158. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 159. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 160. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 161. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 162. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 163. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 164. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 165. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 166. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 167. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 168. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 169. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 170. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 171. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 172. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 173. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 174. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 175. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 176. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 177. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 178. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 179. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 180. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 181. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 182. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 183. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 184. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 185. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 186. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 187. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 188. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 189. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 190. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 191. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 192. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 193. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 194. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 195. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 196. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 197. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 198. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 199. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 200. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 201. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 202. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 203. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 204. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 205. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 206. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 207. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 208. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 209. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 210. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 211. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 212. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 213. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 214. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 215. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 216. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 217. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 218. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 219. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 220. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 221. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 222. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 223. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 224. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 225. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 226. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 227. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 228. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 229. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 230. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 231. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 232. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 233. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 234. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 235. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 236. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 237. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 238. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 239. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 240. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 241. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 242. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 243. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 244. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 245. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 246. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 247. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 248. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 249. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 250. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 251. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 252. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 253. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 254. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 255. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[21-Feb-2018 02:15:21 UTC] PHP 256. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47

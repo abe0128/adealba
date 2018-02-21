@@ -1,0 +1,44 @@
+#STCaptains
+{
+    text-align: center;
+}
+
+#header
+{
+    text-align: center;
+    border: 3px solid blue;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 50px;
+}
+
+#header
+{
+    color: white;
+}
+
+.button
+{
+    border-radius: 12px;
+    background-color: #e7e7e7; color: black;
+    font-size: 32px;
+    border: 2px solid blue;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+
+.button:hover 
+{
+    background-color: black;
+    color: white;
+}
+
+footer
+{
+    text-align: center;
+}
+
+main
+{
+    text-align: center;
+}
+
