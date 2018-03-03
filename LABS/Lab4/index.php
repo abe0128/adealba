@@ -1,7 +1,5 @@
 <?php
-
  //print_r($_GET); //displaying all content submitted in the form using the GET method
-
   $backgroundImage = "img/sea.jpg";
     
   if (isset($_GET['keyword'])) { //if form was submitted
@@ -40,7 +38,6 @@
       }
   }
  
-
 ?>
 
 <!DOCTYPE html>
@@ -114,6 +111,10 @@
                 <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
               </ol>
               <div class="carousel-inner">
                 <div class="carousel-item active">
@@ -124,6 +125,18 @@
                 </div>
                 <div class="carousel-item">
                   <img class="d-block w-100" src="<?=$imageURLs[2]?>" alt="Third slide">
+                </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="<?=$imageURLs[3]?>" alt="Fourth slide">
+                </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="<?=$imageURLs[4]?>" alt="Fifth slide">
+                </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="<?=$imageURLs[5]?>" alt="Sixth slide">
+                </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="<?=$imageURLs[6]?>" alt="Seventh slide">
                 </div>
               </div>
               <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -144,5 +157,12 @@
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" /></script>
+        <footer>
+            <figure id="buddyID">
+                <img src="img/buddy_verified.png" alt="CSUMB_logo"/>
+            </figure>
+            
+        </footer>
+    
     </body>
 </html>
