@@ -305,3 +305,6 @@
 [21-Feb-2018 02:15:21 UTC] PHP 254. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
 [21-Feb-2018 02:15:21 UTC] PHP 255. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
 [21-Feb-2018 02:15:21 UTC] PHP 256. displayBackground() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework2/functions/functions.php:47
+[14-Mar-2018 21:29:35 UTC] PHP Fatal error:  Call to undefined function play() in /home/ubuntu/workspace/adealba/HOMEWORKS/Homework3/index.php on line 15
+[14-Mar-2018 21:29:35 UTC] PHP Stack trace:
+[14-Mar-2018 21:29:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/adealba/HOMEWORKS/Homework3/index.php:0

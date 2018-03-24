@@ -20,3 +20,28 @@
 [19-Feb-2018 23:45:33 UTC] PHP Stack trace:
 [19-Feb-2018 23:45:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/adealba/CLASSEXERCISES/classActivity4/challange.php:0
 [19-Feb-2018 23:45:33 UTC] PHP   2. makePassword() /home/ubuntu/workspace/adealba/CLASSEXERCISES/classActivity4/challange.php:34
+[12-Mar-2018 21:28:54 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'rot'@'localhost' (using password: NO)' in /home/ubuntu/workspace/adealba/CLASSEXERCISES/classActivity5/reports.php:34
+Stack trace:
+#0 /home/ubuntu/workspace/adealba/CLASSEXERCISES/classActivity5/reports.php(34): PDO->__construct('mysql:host=loca...', 'rot', '')
+#1 {main}
+  thrown in /home/ubuntu/workspace/adealba/CLASSEXERCISES/classActivity5/reports.php on line 34
+[12-Mar-2018 21:34:24 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ottermart.purchase' doesn't exist' in /home/ubuntu/workspace/adealba/CLASSEXERCISES/classActivity5/reports.php:39
+Stack trace:
+#0 /home/ubuntu/workspace/adealba/CLASSEXERCISES/classActivity5/reports.php(39): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/adealba/CLASSEXERCISES/classActivity5/reports.php on line 39
+[12-Mar-2018 21:34:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ottermart.purchase' doesn't exist' in /home/ubuntu/workspace/adealba/CLASSEXERCISES/classActivity5/reports.php:39
+Stack trace:
+#0 /home/ubuntu/workspace/adealba/CLASSEXERCISES/classActivity5/reports.php(39): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/adealba/CLASSEXERCISES/classActivity5/reports.php on line 39
+[12-Mar-2018 21:36:53 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ottermart.purchase' doesn't exist' in /home/ubuntu/workspace/adealba/CLASSEXERCISES/classActivity5/reports.php:39
+Stack trace:
+#0 /home/ubuntu/workspace/adealba/CLASSEXERCISES/classActivity5/reports.php(39): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/adealba/CLASSEXERCISES/classActivity5/reports.php on line 39
+[12-Mar-2018 21:37:41 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ottermart.purchase' doesn't exist' in /home/ubuntu/workspace/adealba/CLASSEXERCISES/classActivity5/reports.php:39
+Stack trace:
+#0 /home/ubuntu/workspace/adealba/CLASSEXERCISES/classActivity5/reports.php(39): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/adealba/CLASSEXERCISES/classActivity5/reports.php on line 39

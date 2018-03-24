@@ -1,0 +1,50 @@
+[12-Mar-2018 22:40:22 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'productName LIKE '%ipad%'' at line 1' in /home/ubuntu/workspace/adealba/LABS/Lab6/index.php:53
+Stack trace:
+#0 /home/ubuntu/workspace/adealba/LABS/Lab6/index.php(53): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/adealba/LABS/Lab6/index.php(106): displaySearchResults()
+#2 {main}
+  thrown in /home/ubuntu/workspace/adealba/LABS/Lab6/index.php on line 53
+[12-Mar-2018 22:40:23 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'productName LIKE '%ipad%'' at line 1' in /home/ubuntu/workspace/adealba/LABS/Lab6/index.php:53
+Stack trace:
+#0 /home/ubuntu/workspace/adealba/LABS/Lab6/index.php(53): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/adealba/LABS/Lab6/index.php(106): displaySearchResults()
+#2 {main}
+  thrown in /home/ubuntu/workspace/adealba/LABS/Lab6/index.php on line 53
+[12-Mar-2018 22:42:36 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'productName LIKE '%ipad%'' at line 1' in /home/ubuntu/workspace/adealba/LABS/Lab6/index.php:58
+Stack trace:
+#0 /home/ubuntu/workspace/adealba/LABS/Lab6/index.php(58): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/adealba/LABS/Lab6/index.php(111): displaySearchResults()
+#2 {main}
+  thrown in /home/ubuntu/workspace/adealba/LABS/Lab6/index.php on line 58
+[12-Mar-2018 22:42:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'productName LIKE '%ipad%'' at line 1' in /home/ubuntu/workspace/adealba/LABS/Lab6/index.php:58
+Stack trace:
+#0 /home/ubuntu/workspace/adealba/LABS/Lab6/index.php(58): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/adealba/LABS/Lab6/index.php(111): displaySearchResults()
+#2 {main}
+  thrown in /home/ubuntu/workspace/adealba/LABS/Lab6/index.php on line 58
+[12-Mar-2018 22:42:39 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'productName LIKE '%ipad%'' at line 1' in /home/ubuntu/workspace/adealba/LABS/Lab6/index.php:58
+Stack trace:
+#0 /home/ubuntu/workspace/adealba/LABS/Lab6/index.php(58): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/adealba/LABS/Lab6/index.php(111): displaySearchResults()
+#2 {main}
+  thrown in /home/ubuntu/workspace/adealba/LABS/Lab6/index.php on line 58
+[14-Mar-2018 22:41:26 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1066 Not unique table/alias: 'om_product'' in /home/ubuntu/workspace/adealba/LABS/Lab6/purchaseHistory.php:19
+Stack trace:
+#0 /home/ubuntu/workspace/adealba/LABS/Lab6/purchaseHistory.php(19): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/adealba/LABS/Lab6/purchaseHistory.php on line 19
+[14-Mar-2018 22:41:55 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1066 Not unique table/alias: 'om_product'' in /home/ubuntu/workspace/adealba/LABS/Lab6/purchaseHistory.php:19
+Stack trace:
+#0 /home/ubuntu/workspace/adealba/LABS/Lab6/purchaseHistory.php(19): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/adealba/LABS/Lab6/purchaseHistory.php on line 19
+[14-Mar-2018 22:41:59 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1066 Not unique table/alias: 'om_product'' in /home/ubuntu/workspace/adealba/LABS/Lab6/purchaseHistory.php:19
+Stack trace:
+#0 /home/ubuntu/workspace/adealba/LABS/Lab6/purchaseHistory.php(19): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/adealba/LABS/Lab6/purchaseHistory.php on line 19
+[14-Mar-2018 22:42:19 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1066 Not unique table/alias: 'om_product'' in /home/ubuntu/workspace/adealba/LABS/Lab6/purchaseHistory.php:19
+Stack trace:
+#0 /home/ubuntu/workspace/adealba/LABS/Lab6/purchaseHistory.php(19): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/adealba/LABS/Lab6/purchaseHistory.php on line 19
