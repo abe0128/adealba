@@ -1,6 +1,6 @@
 <?php
 
-    include '../../dbConnection.php';
+    include 'dbConnection.php';
     
     $conn = getDatabaseConnection("ottermart");
 
@@ -24,7 +24,8 @@
         
     }
     
-    function displaySearchResults(){
+    function displaySearchResults()
+    {
         global $conn;
         
         if (isset($_GET['searchForm'])) { //checks whether user has submitted the form
@@ -87,10 +88,18 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title> OtterMart Product Search </title>
+        <title>
+            OtterMart Product Search 
+        </title>
+        <link href="styles.css" rel="stylesheet" type="text/css" />
+        <style>
+            body
+            {
+                background-image: url("img/CSUMB.jpg"); background-size: 100%;
+            }
+        </style>
     </head>
     <body>
-
         <h1>  OtterMart Product Search </h1>
         
         <form>
@@ -111,8 +120,8 @@
             
              Order result by:<br />
              
-             <input type="radio" name="orderBy" value="price"/> Price <br />
-             <input type="radio" name="orderBy" value="name"/> Name
+             <input type="radio" name="orderBy" value="price"/> <strong> Price </strong> <br />
+             <input type="radio" name="orderBy" value="name"/> <strong> Name</strong>
              
              <br />
              <input type="submit" value="Search" name="searchForm" />
@@ -120,7 +129,7 @@
         </form>
         
         <br />
-        <hr>
+        
         
         <?= displaySearchResults() ?>
 
