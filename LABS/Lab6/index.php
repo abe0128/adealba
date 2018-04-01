@@ -109,7 +109,7 @@
             Category: 
                 <select name="category">
                     <option value=""> Select One </option>
-                    <?=displayCategories()?>
+                    <?displayCategories()?>
                 </select>
             <br />
             
