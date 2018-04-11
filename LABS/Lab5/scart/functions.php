@@ -55,9 +55,6 @@ function displayCart()
         {
             $itemId = $item['id'];
             $itemQuant = $item['quantity'];
-            //$itemName = $item['name'];
-            //$itemPrice = $item['price'];
-            //$itemImage = $item['image'];
             
             echo '<tr>';
             
