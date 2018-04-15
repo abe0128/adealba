@@ -3,10 +3,10 @@
     function getDatabaseConnection($dbName) 
     {
 
-         $host = "localhost";
-         $dbname = $dbName;
-         $username = "root";
-         $password = "";
+        $host = "us-cdbr-iron-east-05.cleardb.net";
+        $username = "b02d4fafa2c107";
+        $password = "95ca9032";
+        $dbname= "heroku_c3a87e9274bc026";
          
          //checks whether the URL contains "herokuapp" (using Heroku)
          if(strpos($_SERVER['HTTP_HOST'], 'herokuapp') !== false) 

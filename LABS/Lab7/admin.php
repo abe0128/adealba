@@ -6,7 +6,7 @@ if(!isset( $_SESSION['adminName']))
   header("Location:index.php");
 }
 include 'dbConnection.php';
-$conn = getDatabaseConnection("ottermart");
+$conn = getDatabaseConnection("heroku_c3a87e9274bc026");
 
 function displayAllProducts()
 {
