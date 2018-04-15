@@ -257,3 +257,12 @@ Stack trace:
 [04-Apr-2018 21:33:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/adealba/LABS/Lab7/admin.php on line 47
 [04-Apr-2018 21:33:16 UTC] PHP Stack trace:
 [04-Apr-2018 21:33:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/adealba/LABS/Lab7/admin.php:0
+[15-Apr-2018 00:26:18 UTC] PHP Warning:  include(../../dbConnection.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/adealba/LABS/Lab7/loginProcess.php on line 5
+[15-Apr-2018 00:26:18 UTC] PHP Stack trace:
+[15-Apr-2018 00:26:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/adealba/LABS/Lab7/loginProcess.php:0
+[15-Apr-2018 00:26:18 UTC] PHP Warning:  include(): Failed opening '../../dbConnection.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/adealba/LABS/Lab7/loginProcess.php on line 5
+[15-Apr-2018 00:26:18 UTC] PHP Stack trace:
+[15-Apr-2018 00:26:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/adealba/LABS/Lab7/loginProcess.php:0
+[15-Apr-2018 00:26:18 UTC] PHP Fatal error:  Call to undefined function getDatabaseConnection() in /home/ubuntu/workspace/adealba/LABS/Lab7/loginProcess.php on line 7
+[15-Apr-2018 00:26:18 UTC] PHP Stack trace:
+[15-Apr-2018 00:26:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/adealba/LABS/Lab7/loginProcess.php:0
