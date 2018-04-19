@@ -22,7 +22,7 @@ function initBoard()
 {
     for(var letter in selectedWord)
     {
-        board += '_';
+        board.push("_");
     }
 }
 
