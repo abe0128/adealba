@@ -34,7 +34,7 @@ function startGame()
     generateLetters();
 }
 
-initBoard();
+//initBoard();
 
 function updateBoard()
     {
@@ -86,7 +86,7 @@ function checkLetter(letter)
     if (positions.length > 0)
     {
         updateWord(positions, letter);
-        if(!board.include('_'))
+        if(!board.includes('_'))
         {
             endGame(true);
         }
@@ -107,15 +107,15 @@ function updateWord(positions, letter)
 {
     for(var pos of positions)
     {
-        board = replaceAt(board, pos, letter);
+        board[pos] = letter;
     }
     updateBoard();
 }
 
-function replaceAt(str, index, value)
-{
-    return str.substr(0, index) + value + str.substr(index + value.length);
-}
+// function replaceAt(str, index, value)
+// {
+//     return str.substr(0, index) + value + str.substr(index + value.length);
+// }
 
 function updateMan()
 {
