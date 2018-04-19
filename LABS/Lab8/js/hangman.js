@@ -22,7 +22,7 @@ function initBoard()
 {
     for(var letter in selectedWord)
     {
-        board.push("_");
+        board += '_';
     }
 }
 
@@ -38,7 +38,7 @@ initBoard();
 
 function updateBoard()
     {
-        $("#word").empty();
+        $("#word").html("");
         
         for(var letter of board)
         {
@@ -73,7 +73,7 @@ function generateLetters()
 
 function checkLetter(letter)
 {
-    var positions = new Array();
+    var positions = [];
     
     for(var i = 0; i < selectedWord.length; i++)
     {
@@ -107,8 +107,7 @@ function updateWord(positions, letter)
 {
     for(var pos of positions)
     {
-        //board = replaceAt(board, pos, letter);
-        board[pos] = letter;
+        board = replaceAt(board, pos, letter);
     }
     updateBoard();
 }
