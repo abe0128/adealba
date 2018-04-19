@@ -60,6 +60,10 @@ function updateBoard()
             updateMan();
             onceHint = true;
         });
+        if(onceHint == true)
+        {
+            $("#word").append('<span class="hinter">' + selectedHint + "</span");
+        }
     }
     
 function generateLetters()
