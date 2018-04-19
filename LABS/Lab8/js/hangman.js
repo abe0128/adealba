@@ -1,6 +1,7 @@
 var selectedWord = "";
 var selectedHint = "";
 var board = [];
+var onceHint = false;
 var remainingGuesses = 6;
 var words = [{word: "snake", hint: "Its a reptile" },
              {word: "monkey", hint: "Its a mammal" },
@@ -38,16 +39,27 @@ function startGame()
 
 function updateBoard()
     {
-        $("#word").html("");
+        $("#word").empty();
         
         for(var letter of board)
         {
             document.getElementById("word").innerHTML += letter + " ";
-            $("#word").append(letter + " ");
+            //$("#word").append(letter + " ");
         }
         
         $("#word").append("<br />");
-        $("#word").append('<span class="hint">Hint: ' + selectedHint + "</span");
+        if(onceHint == false)
+        {
+            $("#word").append('<button class="hint">Hint ' + "</span");
+        }
+        
+        $(".hint").click(function(){
+            $("#word").append('<span class="hinter">' + selectedHint + "</span");
+            $(".hint").hide();
+            remainingGuesses--;
+            updateMan();
+            onceHint = true;
+        });
     }
     
 function generateLetters()
