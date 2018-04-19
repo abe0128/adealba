@@ -1,6 +1,6 @@
 var selectedWord = "";
 var selectedHint = "";
-var board = "";
+var board = [];
 var remainingGuesses = 6;
 var words = [{word: "snake", hint: "Its a reptile" },
              {word: "monkey", hint: "Its a mammal" },
