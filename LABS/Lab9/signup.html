@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <title>AJAX: Sign Up Page</title>
-        <script src="http://code.jquery.com/jquery-3.1.0.js"></script>
+        <script src="https://code.jquery.com/jquery-3.1.0.js"></script>
         
         <script>
             function validateForm() 
@@ -19,7 +19,7 @@
                 $("#zipCode").change( function(){
                     $.ajax({
                             type: "GET",
-                            url: "http://itcdland.csumb.edu/~milara/ajax/cityInfoByZip.php",
+                            url: "https://itcdland.csumb.edu/~milara/ajax/cityInfoByZip.php",
                             dataType: "json",
                             data: {
                                "zip": $("#zip_code").val()
@@ -42,7 +42,7 @@
                     //alert("select state changed. Value: " + $("#stateList").val());
                     $.ajax({
                             type: "GET",
-                            url: "http://itcdland.csumb.edu/~milara/ajax/countyList.php",
+                            url: "https://itcdland.csumb.edu/~milara/ajax/countyList.php",
                             dataType: "json",
                             data: {
                                "state": $("#state").val()

@@ -23,7 +23,7 @@
 //   return $dbConn;
 // }
 
-include '../../dbConnection.php';
+include '../../../dbConnection.php';
   $conn = getDatabaseConnection("c9");
   $username = $_GET['username'];
     

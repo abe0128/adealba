@@ -1,10 +1,15 @@
 <?php
- //print_r($_GET); //displaying all content submitted in the form using the GET method
+
+    include 'inc/header.php';
+    include 'pixabayAPI.php';
+
+?>
+<?php
   $backgroundImage = "img/sea.jpg";
     
   if (isset($_GET['keyword'])) { //if form was submitted
       
-      include 'api/pixabayAPI.php';
+      include 'pixabayAPI.php';
       
       echo "<h3>You searched for " . $_GET['keyword'] . "</h3>";
       
@@ -29,88 +34,13 @@
       //print_r($imageURLs);
       
   }
-  
-  function checkCategory($category)
-  {
-      if($category == $_GET['category'])
-      {
-          echo "selected";
-      }
-  }
  
 ?>
-
-<!DOCTYPE html>
-<html>
-    <head>
-        <title> Lab 4: Pixabay Carousel </title>
-    </head>
-    <style>
-        @import url("https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css");
-        @import url("css/styles.css");
-        body 
-        {
-            background-image: url(<?=$backgroundImage?>);
-        }
         
-        #carouselExampleIndicators 
-        {
-            width: 500px;
-            margin: 0 auto;
-        }
-         
-    </style>
-    <body>
-
-        <?php
-        
-            if (!isset($_GET['keyword'])) {
-        
-              echo "<h2> You must type a keyword or select a category </h2>";
-            
-            }  
-        ?>
-
-        
-
-        <form method="GET">
-            
-            <input type="text" size="20" name="keyword" placeholder="Keyword to search for" value="<?=$_GET['keyword']?>"/>
-            
-            <input type="radio" name="layout" value="horizontal" id="hlayout"
-            
-            <?php
-               if ($_GET['layout'] == "horizontal") 
-               {
-                 echo "checked";
-               }
-            ?>
-            
-            >
-            <label for="hlayout"> Horizontal </label>
-            
-            <input type="radio" name="layout" value="vertical" id="vlayout" <?($_GET['layout'] == "vertical")?"checked": "" ?>
-            <label for="vlayout"> Vertical </label>
-            
-            <select name="category">
-              <option value="" >  Select One </option> 
-              <option value="sea" <?=checkCategory('sea')?>>  Ocean </option>
-              <option <?=checkCategory('Forest')?>>  Forest </option>
-              <option <?=checkCategory('Sky')?>>  Sky </option>
-            </select>
-            
-            <input type="submit" value="Submit!"/>
-                    
-        </form>
-        
-        <?php
-          
-           if (isset($_GET['keyword'])) {
-        ?>
-        
+        <!-- Add carousel here -->
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
               <ol class="carousel-indicators">
-                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="alex.jpg" class="active"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
@@ -151,20 +81,15 @@
               </a>
         </div>
         
-        <?php
-            }//endIf
-        ?>
         
+        <br>
         
+        <a href="pets.php" class="btn btn-outline-primary" role="button" aria-pressed="true"> Adopt Now!</a>
+        
+        <br>
+        
+<?php
 
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" /></script>
-        <footer>
-            <figure id="buddyID">
-                <img src="img/buddy_verified.png" alt="CSUMB_logo"/>
-            </figure>
-            
-        </footer>
-    
-    </body>
-</html>
+    include 'inc/footer.php';
+
+?>

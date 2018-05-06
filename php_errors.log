@@ -466,3 +466,98 @@ Stack trace:
 #0 /home/ubuntu/workspace/adealba/MIDTERM/Program2.php(80): PDO->query('SELECT firstNam...')
 #1 {main}
   thrown in /home/ubuntu/workspace/adealba/MIDTERM/Program2.php on line 80
+[03-May-2018 19:56:58 UTC] PHP Warning:  include(functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/adealba/Final_Project/ConsolePage.php on line 5
+[03-May-2018 19:56:58 UTC] PHP Stack trace:
+[03-May-2018 19:56:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/adealba/Final_Project/ConsolePage.php:0
+[03-May-2018 19:56:58 UTC] PHP Warning:  include(): Failed opening 'functions.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/adealba/Final_Project/ConsolePage.php on line 5
+[03-May-2018 19:56:58 UTC] PHP Stack trace:
+[03-May-2018 19:56:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/adealba/Final_Project/ConsolePage.php:0
+[03-May-2018 19:56:58 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/adealba/Final_Project/ConsolePage.php on line 6
+[03-May-2018 19:56:58 UTC] PHP Stack trace:
+[03-May-2018 19:56:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/adealba/Final_Project/ConsolePage.php:0
+[03-May-2018 19:56:58 UTC] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/adealba/Final_Project/ConsolePage.php on line 6
+[03-May-2018 19:56:58 UTC] PHP Stack trace:
+[03-May-2018 19:56:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/adealba/Final_Project/ConsolePage.php:0
+[03-May-2018 19:56:58 UTC] PHP Fatal error:  Call to undefined function getProducts() in /home/ubuntu/workspace/adealba/Final_Project/ConsolePage.php on line 120
+[03-May-2018 19:56:58 UTC] PHP Stack trace:
+[03-May-2018 19:56:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/adealba/Final_Project/ConsolePage.php:0
+[03-May-2018 19:58:10 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/adealba/Final_Project/ConsolePage.php on line 6
+[03-May-2018 19:58:10 UTC] PHP Stack trace:
+[03-May-2018 19:58:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/adealba/Final_Project/ConsolePage.php:0
+[03-May-2018 19:58:10 UTC] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/adealba/Final_Project/ConsolePage.php on line 6
+[03-May-2018 19:58:10 UTC] PHP Stack trace:
+[03-May-2018 19:58:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/adealba/Final_Project/ConsolePage.php:0
+[03-May-2018 19:58:10 UTC] PHP Fatal error:  Call to undefined function getProducts() in /home/ubuntu/workspace/adealba/Final_Project/ConsolePage.php on line 120
+[03-May-2018 19:58:10 UTC] PHP Stack trace:
+[03-May-2018 19:58:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/adealba/Final_Project/ConsolePage.php:0
+[03-May-2018 19:58:12 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/adealba/Final_Project/ConsolePage.php on line 6
+[03-May-2018 19:58:12 UTC] PHP Stack trace:
+[03-May-2018 19:58:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/adealba/Final_Project/ConsolePage.php:0
+[03-May-2018 19:58:12 UTC] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/adealba/Final_Project/ConsolePage.php on line 6
+[03-May-2018 19:58:12 UTC] PHP Stack trace:
+[03-May-2018 19:58:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/adealba/Final_Project/ConsolePage.php:0
+[03-May-2018 19:58:12 UTC] PHP Fatal error:  Call to undefined function getProducts() in /home/ubuntu/workspace/adealba/Final_Project/ConsolePage.php on line 120
+[03-May-2018 19:58:12 UTC] PHP Stack trace:
+[03-May-2018 19:58:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/adealba/Final_Project/ConsolePage.php:0
+[03-May-2018 20:37:30 UTC] PHP Fatal error:  Call to undefined function getCategories() in /home/ubuntu/workspace/adealba/Final_Project/addProduct.php on line 66
+[03-May-2018 20:37:30 UTC] PHP Stack trace:
+[03-May-2018 20:37:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/adealba/Final_Project/addProduct.php:0
+[03-May-2018 20:40:05 UTC] PHP Fatal error:  Call to undefined function getCategories() in /home/ubuntu/workspace/adealba/Final_Project/addProduct.php on line 72
+[03-May-2018 20:40:05 UTC] PHP Stack trace:
+[03-May-2018 20:40:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/adealba/Final_Project/addProduct.php:0
+[03-May-2018 20:43:56 UTC] PHP Fatal error:  Call to undefined function getCategories() in /home/ubuntu/workspace/adealba/Final_Project/addProduct.php on line 72
+[03-May-2018 20:43:56 UTC] PHP Stack trace:
+[03-May-2018 20:43:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/adealba/Final_Project/addProduct.php:0
+[03-May-2018 20:44:01 UTC] PHP Fatal error:  Call to undefined function getCategories() in /home/ubuntu/workspace/adealba/Final_Project/addProduct.php on line 72
+[03-May-2018 20:44:01 UTC] PHP Stack trace:
+[03-May-2018 20:44:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/adealba/Final_Project/addProduct.php:0
+[03-May-2018 20:46:55 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'console_title' cannot be null' in /home/ubuntu/workspace/adealba/Final_Project/addProduct.php:50
+Stack trace:
+#0 /home/ubuntu/workspace/adealba/Final_Project/addProduct.php(50): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/adealba/Final_Project/addProduct.php on line 50
+[03-May-2018 20:52:31 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'console_title' cannot be null' in /home/ubuntu/workspace/adealba/Final_Project/addProduct.php:50
+Stack trace:
+#0 /home/ubuntu/workspace/adealba/Final_Project/addProduct.php(50): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/adealba/Final_Project/addProduct.php on line 50
+[03-May-2018 20:54:32 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'console_title' cannot be null' in /home/ubuntu/workspace/adealba/Final_Project/addProduct.php:50
+Stack trace:
+#0 /home/ubuntu/workspace/adealba/Final_Project/addProduct.php(50): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/adealba/Final_Project/addProduct.php on line 50
+[03-May-2018 20:54:45 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'console_title' cannot be null' in /home/ubuntu/workspace/adealba/Final_Project/addProduct.php:50
+Stack trace:
+#0 /home/ubuntu/workspace/adealba/Final_Project/addProduct.php(50): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/adealba/Final_Project/addProduct.php on line 50
+[03-May-2018 20:55:52 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'console_title' cannot be null' in /home/ubuntu/workspace/adealba/Final_Project/addProduct.php:51
+Stack trace:
+#0 /home/ubuntu/workspace/adealba/Final_Project/addProduct.php(51): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/adealba/Final_Project/addProduct.php on line 51
+[03-May-2018 20:56:17 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'console_title' cannot be null' in /home/ubuntu/workspace/adealba/Final_Project/addProduct.php:51
+Stack trace:
+#0 /home/ubuntu/workspace/adealba/Final_Project/addProduct.php(51): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/adealba/Final_Project/addProduct.php on line 51
+[03-May-2018 20:57:17 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'console_title' cannot be null' in /home/ubuntu/workspace/adealba/Final_Project/addProduct.php:51
+Stack trace:
+#0 /home/ubuntu/workspace/adealba/Final_Project/addProduct.php(51): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/adealba/Final_Project/addProduct.php on line 51
+[03-May-2018 20:57:42 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'console_title' cannot be null' in /home/ubuntu/workspace/adealba/Final_Project/addProduct.php:51
+Stack trace:
+#0 /home/ubuntu/workspace/adealba/Final_Project/addProduct.php(51): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/adealba/Final_Project/addProduct.php on line 51
+[03-May-2018 20:57:50 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'console_title' cannot be null' in /home/ubuntu/workspace/adealba/Final_Project/addProduct.php:51
+Stack trace:
+#0 /home/ubuntu/workspace/adealba/Final_Project/addProduct.php(51): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/adealba/Final_Project/addProduct.php on line 51
+[03-May-2018 21:00:54 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'console_title' cannot be null' in /home/ubuntu/workspace/adealba/Final_Project/addProduct.php:51
+Stack trace:
+#0 /home/ubuntu/workspace/adealba/Final_Project/addProduct.php(51): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/adealba/Final_Project/addProduct.php on line 51
