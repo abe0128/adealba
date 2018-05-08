@@ -98,7 +98,7 @@
             
             Rating: <input type="text" value = "<?=$product['console_rating']?>" name="console_rating"><br>
             
-            Year Released: <input type="text" value = "<?=$product['console_year_released']?>" name="console__year_released"><br>
+            Year Released: <input type="text" value = "<?=$product['console_year_released']?>" name="console_year_released"><br>
             
             Platform: <input type="text" value = "<?=$product['console_platform']?>" name="console_platform"><br>
             
