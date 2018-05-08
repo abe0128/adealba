@@ -23,7 +23,7 @@ function getCategories()
 
 if (isset($_GET['submitProduct'])) 
 {
-    //$console_id = $_GET['console_id'];
+    
     $console_title = $_GET['console_title'];
     $console_genre = $_GET['console_genre'];
     $console_rating = $_GET['console_rating'];
@@ -39,7 +39,6 @@ if (isset($_GET['submitProduct']))
             ( `console_title`, `console_genre`, `console_rating`, `console_year_released`, `console_platform`, `console_price`, `console_description`, `catId`,`console_image`) 
              VALUES ( :console_title, :console_genre, :console_rating, :console_year_released, :console_platform, :console_price, :console_description, :catId, :console_image)";
     $namedParameters = array();
-    //$namedParameters[':console_id'] = $console_id;
     $namedParameters[':console_title'] = $console_title;
     $namedParameters[':console_genre'] = $console_genre;
     $namedParameters[':console_rating'] = $console_rating;
@@ -61,7 +60,7 @@ if (isset($_GET['submitProduct']))
     <body>
         <h1> Add a product</h1>
         <form>
-            //Product id: <input type="text" name="console_id"><br>
+            
             Product name: <input type="text" name="console_title"><br>
             Product genre: <input type="text" name="console_genre"><br>
             Product rating: <input type="text" name="console_rating"><br>

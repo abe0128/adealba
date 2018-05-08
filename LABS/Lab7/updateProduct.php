@@ -20,6 +20,21 @@
         }
     }
     
+    function getProductInfo()
+    {
+        global $connection;
+        $sql = "SELECT * FROM om_product WHERE productId = " . $_GET['productId'];
+    
+        //echo $_GET["productId"];
+        
+        $statement = $connection->prepare($sql);
+        $statement->execute();
+        $record = $statement->fetch(PDO::FETCH_ASSOC);
+        
+        return $record;
+    }
+    
+    
     if (isset($_GET['updateProduct'])) 
     {
         

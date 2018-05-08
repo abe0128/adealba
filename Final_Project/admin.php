@@ -67,6 +67,8 @@ function displayAllProducts()
         <?php $records=displayAllProducts();
             foreach($records as $record) {
                 echo "[<a href='updateProduct.php?console_id=".$record['console_id']."'>Update</a>]";
+                //echo "[<a href='deleteProduct.php?console_id=".$record['console_id']."'>Delete</a>]";
+                
                 echo "<form action='deleteProduct.php' onsubmit='return confirmDelete()'>";
                 echo "<input type='hidden' name='console_id' value= " . $record['console_id'] . " />";
                 echo "<input type='submit' value='Remove'>";

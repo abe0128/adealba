@@ -23,7 +23,7 @@
     function getProductInfo()
     {
         global $connection;
-        $sql = "SELECT * FROM category WHERE catId = " . $_GET['catId'];
+        $sql = "SELECT * FROM console WHERE console_id = " . $_GET['console_id'];
     
         //echo $_GET["productId"];
         
@@ -41,18 +41,19 @@
         //echo "Trying to update the product!";
         
         $sql = "UPDATE console
-                SET console_title = :console_title,
+                SET console_id = :console_id,
+                    console_title = :console_title,
                     console_genre = :console_genre,
                     console_rating = :console_rating,
                     console_year_released = :console_year_released,
                     console_platform = :console_platform,
                     console_price = :console_price,
                     console_description = :console_description,
-                    
+                    catId = :catId,
                     console_image = :console_image
                 WHERE console_id = :console_id";
         $np = array();
-        
+        $np[":console_id"] = $_GET['console_id'];
         $np[":console_title"] = $_GET['console_title'];
         $np[":console_genre"] = $_GET['console_genre'];
         $np[":console_rating"] = $_GET['console_rating'];
@@ -60,8 +61,9 @@
         $np[":console_platform"] = $_GET['console_platform'];
         $np[":console_price"] = $_GET['console_price'];
         $np[":console_description"] = $_GET['console_description'];
-        //$np[":console_id"] = $_GET['console_id'];
+        $np[":catId"] = $_GET['catId'];
         $np[":console_image"] = $_GET['console_image'];
+        
         
         
         $statement = $connection->prepare($sql);
@@ -106,9 +108,9 @@
             
             Set Image Url: <input type = "text" name = "console_image" value = "<?=$product['console_image']?>"><br>
             
-            Category: <select name="console_id">
+            Category: <select name="catId">
                 <option>Select One</option>
-                <?php getCategories( $product['console_id'] ); ?>
+                <?php getCategories( $product['catId'] ); ?>
             </select> <br />
             
             <input type="submit" name="updateProduct" value="Update Product">
