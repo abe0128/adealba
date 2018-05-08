@@ -1,4 +1,5 @@
-h1 {
+h1 
+{
     font-family: 'Press Start 2P', cursive;
     text-align: center;
     font-size: 45px;
@@ -6,12 +7,14 @@ h1 {
     text-decoration: underline;
 }
 
-h3 {
+h3 
+{
     color:white;
     font-size: 25px;
 }
 
-.home {
+.home 
+{
     background-image: url(../img/videoGame.png);
 }
 
@@ -25,7 +28,8 @@ h3 {
 
 
 
-.box2 {
+.box2 
+{
     
     color:white;
 }
@@ -35,19 +39,23 @@ h3 {
     width: 60%;
 }
 
-h4 {
+h4 
+{
     text-decoration: underline;
     border-color: black;
 }
 
-table {
+table 
+{
     color: white;
 }
-#ps4 {
+#ps4 
+{
     float: center;
 }
 
-#tb {
+#tb 
+{
     width: 1000px;
 	margin: 0px auto;
 	border-radius: 15px;
@@ -60,18 +68,21 @@ table {
 }
 
 
-.formDiv {
+.formDiv 
+{
     text-align: center;
     color:white;
     width:500px;
     background-color: maroon;
     margin: 0px auto;
 }
-.form {
+.form 
+{
     text-align: center;
 }
 
-th {
+th 
+{
     border-style: solid;
     background-color: red;
     
@@ -79,14 +90,16 @@ th {
 
 /* Style for the PC page */
 
-.pc {
+.pc 
+{
    
    background-color: dimgray;
   	background-size: cover;
    
 }
 
-#tb3 {
+#tb3 
+{
     width: 1000px;
 	margin: 0px auto;
 	border-radius: 15px;
@@ -99,46 +112,73 @@ th {
 }
 
 /* Try to fix the code */
-#fixed {
+#fixed 
+{
     padding: 0px;
 }
 
 /* Part of the main page*/
-#controller {
+#controller 
+{
     background: url("../img/controller3.png");
     width: 100px;
     height: 65px;
     float:fixed;
 }
-#play {
+#play 
+{
     width:1000px;
     margin: 0px auto;
     background: url("../img/black.png") no-repeat center center fixed;
 }
 
-.panel {
+.panel 
+{
     padding: 0 18px;
     display: none;
     overflow: hidden;
 }
 
-#buttonAdd {
+#buttonAdd 
+{
     background-color: orange;
 }
 
-#buttonAdded {
+#buttonAdded 
+{
     background-color: green;
 }
 #label1
 {
     color: white;
+    font-size: 40px;
 }
 #label2
 {
     color: white;
+    font-size: 40px;
 }
 .login
 {
     text-align: right;
     background-color: #4CAF50;
+    
+}
+
+#submit 
+{
+    width: 15%;
+    background-color: green;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+#submit:hover 
+{
+  border: none;
+  background: blue;
+  box-shadow: 0px 0px 1px #777;
 }

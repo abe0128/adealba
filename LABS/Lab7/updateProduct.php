@@ -5,35 +5,20 @@
     
     function getCategories($catId) 
     {
-    global $connection;
-    
-    $sql = "SELECT catId, catName from om_category ORDER BY catName";
-    
-    $statement = $connection->prepare($sql);
-    $statement->execute();
-    $records = $statement->fetchAll(PDO::FETCH_ASSOC);
-    foreach ($records as $record) 
-    {
-        echo "<option  ";
-        echo ($record["catId"] == $catId)? "selected": ""; 
-        echo " value='".$record["catId"] ."'>". $record['catName'] ." </option>";
-    }
-}
-    
-    function getProductInfo()
-    {
         global $connection;
-        $sql = "SELECT * FROM om_product WHERE productId = " . $_GET['productId'];
-    
-        //echo $_GET["productId"];
+        
+        $sql = "SELECT catId, catName from om_category ORDER BY catName";
         
         $statement = $connection->prepare($sql);
         $statement->execute();
-        $record = $statement->fetch(PDO::FETCH_ASSOC);
-        
-        return $record;
+        $records = $statement->fetchAll(PDO::FETCH_ASSOC);
+        foreach ($records as $record) 
+        {
+            echo "<option  ";
+            echo ($record["catId"] == $catId)? "selected": ""; 
+            echo " value='".$record["catId"] ."'>". $record['catName'] ." </option>";
+        }
     }
-    
     
     if (isset($_GET['updateProduct'])) 
     {

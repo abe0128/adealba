@@ -11,11 +11,6 @@
             {
               text-align: center;
             }
-            #carouselExampleIndicators
-            {
-            width: 500px;
-            margin: 0 auto;
-            }
         </style>
    
     </head>

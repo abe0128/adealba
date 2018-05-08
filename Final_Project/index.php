@@ -45,16 +45,16 @@ if(!isset($_SESSION['cart'])) {
             <!--<hr width="60%"/>-->
             
                 <form action="ConsolePage.php">
-                    <input type="submit" value="Console">
+                    <input id="submit" type="submit" value="Console">
                 </form>
                 
-                <form action="PCPage.php">
-                    <input type="submit" value="PC">
-                </form>
+                <!--<form action="PCPage.php">-->
+                <!--    <input id="submit" type="submit" value="PC">-->
+                <!--</form>-->
                 
-                <form action="MobilePage.php">
-                    <input type="submit" value="Mobile">
-                </form>
+                <!--<form action="MobilePage.php">-->
+                <!--    <input id="submit" type="submit" value="Mobile">-->
+                <!--</form>-->
                 
             </div>
            <!-- <div id="box2">

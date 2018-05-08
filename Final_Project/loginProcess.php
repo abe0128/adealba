@@ -14,13 +14,13 @@
     
     //following sql does not prevent SQL injection
     $sql = "SELECT * 
-            FROM om_admin
+            FROM admin
             WHERE username = '$username'
             AND   password = '$password'";
             
     //following sql prevents sql injection by avoiding using single quotes        
     $sql = "SELECT * 
-            FROM om_admin
+            FROM admin
             WHERE username = :username
             AND   password = :password";    
             
