@@ -3,11 +3,11 @@
     
     $connection = getDatabaseConnection("heroku_c3a87e9274bc026");
     
-    function getCategories($console_id) 
+    function getCategories($catId) 
     {
         global $connection;
         
-        $sql = "SELECT console_id, console_title from console ORDER BY console_title";
+        $sql = "SELECT catId, catName from category ORDER BY catName";
         
         $statement = $connection->prepare($sql);
         $statement->execute();
@@ -15,8 +15,8 @@
         foreach ($records as $record) 
         {
             echo "<option  ";
-            echo ($record["console_id"] == $console_id)? "selected": ""; 
-            echo " value='".$record["console_id"] ."'>". $record['console_title'] ." </option>";
+            echo ($record["catId"] == $catId)? "selected": ""; 
+            echo " value='".$record["catId"] ."'>". $record['catName'] ." </option>";
         }
     }
     
@@ -48,6 +48,7 @@
                     console_platform = :console_platform,
                     console_price = :console_price,
                     console_description = :console_description,
+                    
                     console_image = :console_image
                 WHERE console_id = :console_id";
         $np = array();
@@ -59,8 +60,8 @@
         $np[":console_platform"] = $_GET['console_platform'];
         $np[":console_price"] = $_GET['console_price'];
         $np[":console_description"] = $_GET['console_description'];
+        //$np[":console_id"] = $_GET['console_id'];
         $np[":console_image"] = $_GET['console_image'];
-        $np[":console_id"] = $_GET['console_id'];
         
         
         $statement = $connection->prepare($sql);
