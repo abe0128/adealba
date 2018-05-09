@@ -35,7 +35,8 @@
 
     if (empty($record)) 
     {
-        echo "Wrong username or password! <br> <a href= 'index.php'> Try Again! </a>";
+        echo "Wrong username or password! <br><br> <a href= 'index.php'> Try Again! </a>";
+        echo "<br>";
         
     }
     else
@@ -44,3 +45,16 @@
         header("Location:admin.php");
     }
 ?>
+<html>
+    <head>
+        <title>GameStahp</title>
+        <meta charset="utf-8"/>
+        <style>
+            @import url(css/styles.css);
+        </style>
+        <link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
+    </head>
+    <body class="tryagain">
+        <h1><strong><img src= "img/cracked.png"></h1></strong>
+    </body>
+</html>

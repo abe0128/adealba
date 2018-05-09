@@ -116,5 +116,9 @@
             <input type="submit" name="updateProduct" value="Update Product">
             
         </form>
+        <br>
+        <form action="logout.php">
+            <input type="submit" value="Logout"/>
+        </form>
     </body>
 </html>

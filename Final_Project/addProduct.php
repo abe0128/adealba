@@ -78,5 +78,9 @@ if (isset($_GET['submitProduct']))
             <input type="submit" name="submitProduct" value="Add Product">
             
         </form>
+        <br>
+        <form action="logout.php">
+            <input type="submit" value="Logout"/>
+        </form>
     </body>
 </html>
